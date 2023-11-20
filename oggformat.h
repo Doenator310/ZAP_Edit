@@ -10,6 +10,7 @@ namespace OGG{
         BEG_OF_STREAM = 0x02,
         END_OF_STREAM = 0x04
     };
+    // this helped https://www.xiph.org/ogg/doc/rfc3533.txt [Page 8]
     struct Header{
         char capture_pattern[4];
         quint8 version;
@@ -61,6 +62,8 @@ namespace OGG{
         return size;
     }
 
+
+    // This function ensures that the ogg audio does have the required End of Stream Header Type at the end!
     inline void prepareExternalOGGStream(char* ogg_start){
         size_t size = 0;
         OGG::Header* ogg_header = (OGG::Header*)ogg_start;

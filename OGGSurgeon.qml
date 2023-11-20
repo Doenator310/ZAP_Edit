@@ -72,6 +72,12 @@ Rectangle {
             }
         )
 
+        audioItemRef.player.durationChanged.connect(
+            (_duration) => {
+                audioProgressSlider.to = _duration
+            }
+        )
+
         audioItemRef.availableTracksChanged.connect(
             () => {
                 songListView.updateContent();

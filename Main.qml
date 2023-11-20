@@ -11,7 +11,7 @@ Window {
     width: 800
     height: 480
     visible: true
-    title: qsTr("ZAP File Manager [PC | Thrillville Off the Rails]")
+    title: qsTr("ZAP_EDIT / ZAP File Manager  [PC | Thrillville Off the Rails]")
 
     Material.theme: Material.Dark // Setzen des Material Themes
     Material.accent: Material.Blue // Festlegen der Akzentfarbe
