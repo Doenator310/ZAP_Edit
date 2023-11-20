@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/audio_icon.png</file>
+        <file>images/file_icon.png</file>
+        <file>images/folder_icon.png</file>
+        <file>images/folder_up_icon.png</file>
+        <file>images/load_file_icon.png</file>
+        <file>images/save_file_icon.png</file>
+        <file>OGGSurgeon.qml</file>
+        <file>images/pause_button.png</file>
+        <file>images/play_button.png</file>
+        <file>images/back_icon.png</file>
+        <file>images/x_icon.png</file>
+        <file>images/apply_icon.png</file>
+    </qresource>
+</RCC>
