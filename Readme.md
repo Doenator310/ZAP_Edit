@@ -5,6 +5,7 @@ Edit .Zap files of the game "thrillville: off the rails".
 This tool enables you to edit or extract ZAP files.
 Make sure that you make a backup of the files that you want to edit.
 
+<img src="readme_data/image-main.png" alt="Alt-Text" width="600" />
 
 # USAGE
 
