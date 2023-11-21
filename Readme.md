@@ -70,7 +70,7 @@ Sometimes Audio/OGG files are embedded in the ZAP file. These (Orange Highlighte
 <div style="display: flex;">
   <img align="left" src="readme_data/yellow.png" alt="Alt-Text" width="20" height="20" 
   style="margin-right: 10px;"/>
-  <p>Leave the Audio-Editor. Throws away unsaved audio.</p>
+  <p>Leave the Audio-Editor. Unsaved changes are lost.</p>
 </div>
 
 
