@@ -8,7 +8,7 @@ Make sure that you make a backup of the files that you want to edit.
 
 # USAGE
 
-Open a ZAP file with the icon 
+Open a ZAP file by clicking on the corresponding icon
 
 <img src="readme_data/image-0.png" alt="Alt-Text" width="600" />
 <div style="display: flex;">
