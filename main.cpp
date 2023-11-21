@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
     qmlRegisterType<ZapFileExplorer>("ZapFileExplorer", 1, 0, "ZapFileExplorer");
     qmlRegisterType<AudioEditorItem>("AudioEditorItem", 1, 0, "AudioEditorItem");
 
-    QQuickWindow::setGraphicsApi(QSGRendererInterface::OpenGL);
+    QQuickWindow::setGraphicsApi(QSGRendererInterface::Direct3D11);
     QQmlApplicationEngine engine;
     QObject::connect(&engine, &QQmlApplicationEngine::objectCreationFailed,
         &app, []() { QCoreApplication::exit(-1); },
