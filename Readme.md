@@ -11,19 +11,21 @@ Make sure that you make a backup of the files that you want to edit.
 Open a ZAP file with the icon 
 
 <img src="readme_data/image-0.png" alt="Alt-Text" width="600" />
-
 <div style="display: flex;">
-  <div style="width: 20px; height: 20px; background-color: cyan; margin-right: 10px;"></div>
+  <img src="readme_data/red.png" alt="Alt-Text" width="20" height="20" 
+  style="margin-right: 10px;"/>
   <p>Open a ZAP File</p>
 </div>
 
 <div style="display: flex;">
-  <div style="width: 20px; height: 20px; background-color: red; margin-right: 10px;"></div>
+<img src="readme_data/cyan.png" alt="Alt-Text" width="20" height="20" 
+  style="margin-right: 10px;"/>
   <p>Save the changes as new ZAP file</p>
 </div>
 
 <div style="display: flex;">
-  <div style="width: 20px; height: 20px; background-color: orange; margin-right: 10px;"></div>
+<img src="readme_data/orange.png" alt="Alt-Text" width="20" height="20" 
+  style="margin-right: 10px;"/>
   <p>Go to parent folder</p>
 </div>
 
@@ -48,22 +50,26 @@ Sometimes Audio/OGG files are embedded in the ZAP file. These (Orange Highlighte
 <img src="readme_data/image-4.png" alt="Alt-Text" width="600" />
 
 <div style="display: flex;">
-  <div style="width: 20px; height: 20px; background-color: orange; margin-right: 10px;"></div>
+  <img src="readme_data/orange.png" alt="Alt-Text" width="20" height="20" 
+  style="margin-right: 10px;"/>
   <p>Here are the embedded tracks, double left click on the row to play it</p>
 </div>
 
 <div style="display: flex;">
-  <div style="width: 20px; height: 20px; background-color: cyan; margin-right: 10px;"></div>
+  <img src="readme_data/cyan.png" alt="Alt-Text" width="20" height="20" 
+  style="margin-right: 10px;"/>
   <p>Click here to apply changes</p>
 </div>
 
 <div style="display: flex;">
-  <div style="width: 20px; height: 20px; background-color: lime; margin-right: 10px;"></div>
+  <img src="readme_data/green.png" alt="Alt-Text" width="20" height="20" 
+  style="margin-right: 10px;"/>
   <p>Your typical audio player</p>
 </div>
 
 <div style="display: flex;">
-  <div style="width: 20px; height: 20px; background-color: yellow; margin-right: 10px;"></div>
+  <img src="readme_data/yellow.png" alt="Alt-Text" width="20" height="20" 
+  style="margin-right: 10px;"/>
   <p>Leave the Audio-Editor. Throws away unsaved audio.</p>
 </div>
 
