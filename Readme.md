@@ -12,19 +12,19 @@ Open a ZAP file with the icon
 
 <img src="readme_data/image-0.png" alt="Alt-Text" width="600" />
 <div style="display: flex;">
-  <img src="readme_data/red.png" alt="Alt-Text" width="20" height="20" 
+  <img align="left" src="readme_data/red.png" alt="Alt-Text" width="20" height="20" 
   style="margin-right: 10px;"/>
   <p>Open a ZAP File</p>
 </div>
 
-<div style="display: flex;">
-<img src="readme_data/cyan.png" alt="Alt-Text" width="20" height="20" 
+<div style="display: inline-block;">
+<img align="left" src="readme_data/cyan.png" alt="Alt-Text" width="20" height="20" 
   style="margin-right: 10px;"/>
   <p>Save the changes as new ZAP file</p>
 </div>
 
-<div style="display: flex;">
-<img src="readme_data/orange.png" alt="Alt-Text" width="20" height="20" 
+<div style="display: inline-block;">
+<img align="left" src="readme_data/orange.png" alt="Alt-Text" width="20" height="20" 
   style="margin-right: 10px;"/>
   <p>Go to parent folder</p>
 </div>
@@ -50,25 +50,25 @@ Sometimes Audio/OGG files are embedded in the ZAP file. These (Orange Highlighte
 <img src="readme_data/image-4.png" alt="Alt-Text" width="600" />
 
 <div style="display: flex;">
-  <img src="readme_data/orange.png" alt="Alt-Text" width="20" height="20" 
+  <img align="left" src="readme_data/orange.png" alt="Alt-Text" width="20" height="20" 
   style="margin-right: 10px;"/>
-  <p>Here are the embedded tracks, double left click on the row to play it</p>
+  <p>Here are the embedded tracks, double left click on a track-row to play it</p>
 </div>
 
-<div style="display: flex;">
-  <img src="readme_data/cyan.png" alt="Alt-Text" width="20" height="20" 
+<div style="display: inline-block;">
+  <img align="left" src="readme_data/cyan.png" alt="Alt-Text" width="20" height="20" 
   style="margin-right: 10px;"/>
   <p>Click here to apply changes</p>
 </div>
 
 <div style="display: flex;">
-  <img src="readme_data/green.png" alt="Alt-Text" width="20" height="20" 
+  <img align="left" src="readme_data/green.png" alt="Alt-Text" width="20" height="20" 
   style="margin-right: 10px;"/>
   <p>Your typical audio player</p>
 </div>
 
 <div style="display: flex;">
-  <img src="readme_data/yellow.png" alt="Alt-Text" width="20" height="20" 
+  <img align="left" src="readme_data/yellow.png" alt="Alt-Text" width="20" height="20" 
   style="margin-right: 10px;"/>
   <p>Leave the Audio-Editor. Throws away unsaved audio.</p>
 </div>
@@ -112,4 +112,5 @@ I think the bitrate of the ogg file can be higher.
 I wanted to merge my Zap editor with an audio editing tool and include a user interface. I was inspired to create this program by the following tool:
 https://github.com/ralf2oo2/ThrillEdit
 
-
+This Program was made with Qt 6.5
+https://www.qt.io/download-open-source
