@@ -52,7 +52,7 @@ Sometimes Audio/OGG files are embedded in the ZAP file. These (Orange Highlighte
 <div style="display: flex;">
   <img align="left" src="readme_data/orange.png" alt="Alt-Text" width="20" height="20" 
   style="margin-right: 10px;"/>
-  <p>Here are the embedded tracks, double left click on the row to play it</p>
+  <p>Here are the embedded tracks, double left click on a track-row to play it</p>
 </div>
 
 <div style="display: inline-block;">
