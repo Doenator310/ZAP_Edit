@@ -112,4 +112,5 @@ I think the bitrate of the ogg file can be higher.
 I wanted to merge my Zap editor with an audio editing tool and include a user interface. I was inspired to create this program by the following tool:
 https://github.com/ralf2oo2/ThrillEdit
 
-
+This was made with the QtFramework Version 6.5
+https://www.qt.io/download-open-source
