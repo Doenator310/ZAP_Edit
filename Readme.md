@@ -30,7 +30,7 @@ Open a ZAP file with the icon
 </div>
 
 
-## How to change anything
+## How to edit something
 
 This tool is like a file explorer but with some special functions. Basic functionalities like Replace, Delete or rename are supported. 
 
@@ -107,6 +107,9 @@ I think the bitrate of the ogg file can be higher.
 - Only Thrillville off the rails [PC] is supported
 - Currently you cannot create new folders in the zap file
 
+## Todo
+
+Some major code refactoring is still required. Sorry if the readability is not the best.
 
 # Credits
 I wanted to merge my Zap editor with an audio editing tool and include a user interface. I was inspired to create this program by the following tool:
